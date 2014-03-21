@@ -1,4 +1,4 @@
 yang
 ====
 
-yang modules used for IETF ODP and vendor proprietary ones
+yang modules used for IETF, ODP and vendor proprietary ones
